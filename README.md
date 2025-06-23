@@ -1,0 +1,2 @@
+ElectroMart Marketing Optimization Project
+An end‑to‑end e‑commerce analytics project that analyzes marketing and sales data to identify high‑impact KPIs, measure channel effectiveness, and optimize marketing spend across platforms. Includes data preprocessing, exploratory analysis, statistical modeling, and SKU‑level inventory optimization. Achieved a 128% ROI improvement by applying advanced statistical methods and constrained optimization for actionable, data‑driven marketing and operational decisions.
